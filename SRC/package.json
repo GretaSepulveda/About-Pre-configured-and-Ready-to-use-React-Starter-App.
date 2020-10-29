@@ -1,11 +1,10 @@
 {
-    "name": "React-Starter-App",
+    "name": "React-Starter-App",CWG React Starter
     "version": "0.1.0",
     "author": {
-      "name": "Greta ",
-      "email": "hey@codewithghazi.com",
-      "url": "https://codewithghazi.com"
-    },
+      "name": "Greta",
+      "email":",
+      "url": ",
     "description": "Create react app starter with Redux, React Router with Private Route, Lodash, Axios Interceptor everything pre-configured",
     "dependencies": {
       "@testing-library/jest-dom": "^4.2.4",
